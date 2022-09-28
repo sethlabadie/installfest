@@ -17,5 +17,4 @@ Before we get started, just know that this will be chaos. Your goal is to get a 
 
 ### Windows Setup
 - Ensure that you're running the most recent operating system (Windows 10 and 11 are both fine). You can update to the latest Windows version by selecting `Start > Settings > **Windows Update **> Check for updates.`
-- Download and install [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) by running `wsl --install` as an Administrator from Powershell
 - [Complete Installfest (Windows)](../page-resources/installfest_windows.md)
