@@ -13,8 +13,8 @@ Before we get started, just know that this will be chaos. Your goal is to get a 
 - [Complete Installfest (MacOS)](./installfest_mac.md)
 
 ### Ubuntu Linux Setup
-- [Complete Installfest (Ubuntu Linux)](./page-resources/installfest_linux.md)
+- [Complete Installfest (Ubuntu Linux)](./installfest_linux.md)
 
 ### Windows Setup
 - Ensure that you're running the most recent operating system (Windows 10 and 11 are both fine). You can update to the latest Windows version by selecting `Start > Settings > **Windows Update **> Check for updates.`
-- [Complete Installfest (Windows)](../page-resources/installfest_windows.md)
+- [Complete Installfest (Windows)](./installfest_windows.md)
