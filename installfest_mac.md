@@ -1,4 +1,4 @@
-# CodePlatoon Installfest
+# Mac Installfest
 
 ## What we'll cover
 We are going to install everything that you will need for this course. Please do this in order!
